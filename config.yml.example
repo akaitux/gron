@@ -1,0 +1,2 @@
+root_dir: '~/ansible'
+ansible_bin: '/usr/bin/ansible-playbook' 
